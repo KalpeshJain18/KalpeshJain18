@@ -1,14 +1,21 @@
-<!-- MasterHead -->
+<!-- Master Head -->
 ![MasterHead](https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif)
 
-<h1 align="center">Hi 👋, I'm Kalpesh Jain</h1>
-<h3 align="center">QA Automation Engineer | Java | Selenium | Appium | JMeter | Postman</h3>
+<h1 align="center">👋 Hey, I'm Kalpesh Jain!</h1>
+<h3 align="center">🚀 QA Automation Engineer | Java | Selenium | Playwright | Appium | JMeter | Postman</h3>
 
-<!-- About Me -->
-🔹 **Experienced Software Tester** specializing in **Manual & Automated Testing** with a strong command of **Java, Selenium, Appium, JMeter, and Postman**.  
-🔹 Optimized **testing processes by 40%**, increasing **reliability by 20%** via automation and performance enhancements.  
-🔹 Passionate about **enhancing software quality, API testing, and performance optimization** using **Postman & JMeter**.  
-🔹 **Project Management & Collaboration**: Proficient in **JIRA, Git, Jenkins**, and Agile methodologies.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KalpeshJain18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 **About Me**
+🔹 **Experienced Software Tester** specializing in **Manual & Automated Testing** using **Java, Selenium, Playwright, Appium, JMeter, and Postman**.  
+🔹 Passionate about **writing efficient test scripts, API testing, and improving software quality**.  
+🔹 Successfully **optimized testing processes by 40%**, enhancing **reliability by 20%** through automation and performance tuning.  
+🔹 Experienced in **Agile methodologies, CI/CD pipelines, API testing, and Playwright for UI & API automation**.  
+🔹 **LeetCode Enthusiast** solving coding problems to enhance problem-solving skills: [My LeetCode Profile](https://leetcode.com/problemset/)  
 
 📍 **Location:** New Delhi, India  
 📧 **Email:** [jainkalpesh597@gmail.com](mailto:jainkalpesh597@gmail.com)  
@@ -17,12 +24,12 @@
 
 ---
 
-## 🚀 **What I'm Currently Working On**
-- 🔭 **[Actitime, VWO & Other Software Testing Projects](https://github.com/KalpeshJain18/Software-Testing-Projects)**
+## 🔭 **What I'm Currently Working On**
+- 🚀 **[Actitime, VWO & Other Software Testing Projects](https://github.com/KalpeshJain18/Software-Testing-Projects)**
 - 🌱 Learning **Advanced Automation Testing & Real-Time Projects**
 - 👯 Looking to collaborate on **Software Testing & QA Automation projects**
 - 🤝 Need help with **Orange HRM**
-- 💬 Ask me about **Manual Testing, Agile Methodology, SQL, API Testing (Postman), and Selenium with Java**
+- 💬 Ask me about **Manual Testing, Playwright, Agile Methodology, SQL, API Testing (Postman), and Selenium with Java**
 - ⚡ Fun Fact: I love **Traveling by Bike, Cooking, Videography, and Editing Videos**
 
 ---
@@ -31,8 +38,8 @@
 | Category          | Tools & Technologies |
 |------------------|---------------------|
 | **Languages**       | Java, SQL |
-| **Automation**      | Selenium, Appium |
-| **API & Performance Testing** | Postman, JMeter |
+| **Automation**      | Selenium, Playwright, Appium |
+| **API & Performance Testing** | Postman, JMeter, Playwright |
 | **Frameworks & Methodologies** | TestNG, JUnit, Agile (Scrum), SDLC |
 | **Project Management** | JIRA, Git, Jenkins |
 | **Soft Skills** | Analytical Thinking, Communication, Adaptability |
@@ -60,6 +67,7 @@
 
 ## 🎓 **Certifications**
 ✔ **Software Testing Course** - Cyber Success, Pune  
+✔ **Playwright for UI & API Testing** - LinkedIn Learning  
 ✔ **Apache JMeter** - LinkedIn Learning  
 ✔ **Agile Testing** - LinkedIn Learning  
 ✔ **Test Automation** - LinkedIn Learning  
@@ -71,11 +79,8 @@
   <a href="https://linkedin.com/in/kalpeshnjain09" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/kalpeshjain_09" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/kalpesh jain" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+  <a href="https://leetcode.com/problemset/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
@@ -86,17 +91,11 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
+    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
+  </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
@@ -109,12 +108,12 @@
 ---
 
 ## 📊 **GitHub Stats**
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpeshjain18&show_icons=true&locale=en&layout=compact" alt="kalpeshjain18" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KalpeshJain18&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpeshjain18&show_icons=true&locale=en" alt="kalpeshjain18" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalpeshJain18&theme=dark" alt="GitHub Streak Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpeshjain18&" alt="kalpeshjain18" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshJain18&layout=compact&theme=dark" alt="Top Languages" />
 </p>
