@@ -1,5 +1,8 @@
 <!-- Master Head -->
-![MasterHead](https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif)
+<!-- Master Head -->
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600" />
+</p>
 
 <h1 align="center">👋 Hey, I'm Kalpesh Jain!</h1>
 <h3 align="center">🚀 QA Automation Engineer | Java | Selenium | Playwright | Appium | JMeter | Postman</h3>
