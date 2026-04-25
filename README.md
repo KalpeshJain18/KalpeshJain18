@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100"/>
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500"/>
 
 # 👋 Hey, I'm Kalpesh Jain!
 
@@ -151,13 +151,15 @@
 
 <div align="center">
 
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)&nbsp;&nbsp;
-[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://www.javascript.com)&nbsp;&nbsp;
-[![Playwright](https://playwright.dev/img/playwright-logo.svg)](https://playwright.dev/)&nbsp;&nbsp;
-[![Selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg)](https://www.selenium.dev)&nbsp;&nbsp;
-[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com)&nbsp;&nbsp;
-[![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)](https://www.jenkins.io)&nbsp;&nbsp;
-[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>&nbsp;&nbsp;
+<a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>&nbsp;&nbsp;
+<a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40" alt="Playwright"/></a>&nbsp;&nbsp;
+<a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" alt="Selenium"/></a>&nbsp;&nbsp;
+<a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/></a>&nbsp;&nbsp;
+<a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>&nbsp;&nbsp;
+<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="SQL"/></a>&nbsp;&nbsp;
+<a href="https://jmeter.apache.org/"><img src="https://jmeter.apache.org/images/logo.svg" width="40" height="40" alt="JMeter"/></a>
 
 </div>
 
