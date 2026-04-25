@@ -1,122 +1,173 @@
-<!-- Master Head -->
-<!-- Master Head -->
-<p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600" />
-</p>
+<!-- Header -->
+<div align="center">
 
-<h1 align="center">👋 Hey, I'm Kalpesh Jain!</h1>
-<h3 align="center">🚀 QA Automation Engineer | Java | Selenium | Playwright | Appium | JMeter | Postman</h3>
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KalpeshJain18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+# 👋 Hey, I'm Kalpesh Jain!
 
----
+### 🚀 SDET @ Algebrik AI | Playwright · Rest Assured · API Automation
+### 💡 Sharing DSA · QA · Tech & Career | 41K+ Community | Open to Collaborations
 
-## 🚀 **About Me**
-🔹 **Experienced Software Tester** specializing in **Manual & Automated Testing** using **Java, Selenium, Playwright, Appium, JMeter, and Postman**.  
-🔹 Passionate about **writing efficient test scripts, API testing, and improving software quality**.  
-🔹 Successfully **optimized testing processes by 40%**, enhancing **reliability by 20%** through automation and performance tuning.  
-🔹 Experienced in **Agile methodologies, CI/CD pipelines, API testing, and Playwright for UI & API automation**.  
-🔹 **LeetCode Enthusiast** solving coding problems to enhance problem-solving skills: [My LeetCode Profile](https://leetcode.com/problemset/)  
+[![Profile Views](https://komarev.com/ghpvc/?username=KalpeshJain18&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/KalpeshJain18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-41K%2B%20Community-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kalpeshnjain09)
+[![LeetCode](https://img.shields.io/badge/LeetCode-DSA%20Journey-orange?style=flat&logo=leetcode)](https://leetcode.com/u/kalpeshJain09/)
 
-📍 **Location:** New Delhi, India  
-📧 **Email:** [jainkalpesh597@gmail.com](mailto:jainkalpesh597@gmail.com)  
-💼 **LinkedIn:** [kalpeshnjain09](https://www.linkedin.com/in/kalpeshnjain09/)  
-📂 **GitHub:** [KalpeshJain18](https://github.com/KalpeshJain18)  
+</div>
 
 ---
 
-## 🔭 **What I'm Currently Working On**
-- 🚀 **[Actitime, VWO & Other Software Testing Projects](https://github.com/KalpeshJain18/Software-Testing-Projects)**
-- 🌱 Learning **Advanced Automation Testing & Real-Time Projects**
-- 👯 Looking to collaborate on **Software Testing & QA Automation projects**
-- 🤝 Need help with **Orange HRM**
-- 💬 Ask me about **Manual Testing, Playwright, Agile Methodology, SQL, API Testing (Postman), and Selenium with Java**
-- ⚡ Fun Fact: I love **Traveling by Bike, Cooking, Videography, and Editing Videos**
+## 🚀 About Me
+
+🔹 **SDET** at **Algebrik AI** — Testing an AI-powered Loan Origination System (FinTech)
+🔹 Built **end-to-end UI automation** using **Playwright** for Direct & Indirect Auto Loan flows → **40% increase in regression coverage**
+🔹 Developed **API automation** using **Rest Assured** for backend microservices → **25% improvement in release stability**
+🔹 Reduced **manual testing effort by ~30%** through regression, smoke & integration testing
+🔹 Actively solving **LeetCode 75** daily — on a mission to crack **Big 4 SDET roles** 🎯
+🔹 Sharing my journey publicly with **41K+ LinkedIn community**
+
+> *"I Learn in Public. I Grow in Public."*
+
+📍 **Location:** Bengaluru, India
+📧 **Email:** jainkalpesh597@gmail.com
+💼 **LinkedIn:** [kalpeshnjain09](https://www.linkedin.com/in/kalpeshnjain09/)
+💻 **LeetCode:** [kalpeshJain09](https://leetcode.com/u/kalpeshJain09/)
+📂 **GitHub:** [KalpeshJain18](https://github.com/KalpeshJain18)
 
 ---
 
-## 🛠 **Technical Skills**
-| Category          | Tools & Technologies |
-|------------------|---------------------|
-| **Languages**       | Java, SQL |
-| **Automation**      | Selenium, Playwright, Appium |
-| **API & Performance Testing** | Postman, JMeter, Playwright |
-| **Frameworks & Methodologies** | TestNG, JUnit, Agile (Scrum), SDLC |
-| **Project Management** | JIRA, Git, Jenkins |
-| **Soft Skills** | Analytical Thinking, Communication, Adaptability |
+## 🎯 Current Goals (2025–2026)
+
+- 🧠 Solving **LeetCode 75** — 1 problem/day consistently
+- 🏗️ Building a **production-grade Playwright + Rest Assured** automation framework
+- 🎓 Learning **System Design** for SDET interviews
+- 🚀 Targeting **SDET roles at Amazon · Microsoft · Google · Meta**
+- 📢 Documenting everything publicly on [LinkedIn](https://linkedin.com/in/kalpeshnjain09)
 
 ---
 
-## 📌 **Projects**
-### **1️⃣ Gen BI (Business Intelligence Solution)**
-📊 Developed a system to analyze and visualize **key business metrics**.  
-🚀 Enhanced **decision-making** with detailed reports & dashboards.
+## 💼 Professional Experience
 
-### **2️⃣ Customer Relationship Management System (CRMS)**
-✅ Implemented **customer data tracking, lead management, and customer interaction modules**.  
-📌 Ensured **data integrity** and **optimized system functionality**.
+### 🏢 Algebrik AI — SDET *(Aug 2025 – Present)*
+- Built E2E UI automation with **Playwright** for Loan Origination System → **40% regression coverage increase**
+- Developed API automation with **Rest Assured** → **25% better release stability**
+- Tested core modules: Digital Account Opening, POS, AI Decision Engine, Analytics
+- Performed **SQL data validation** for financial transaction accuracy
+- Using **AI-assisted tools** (Cursor, Claude) to accelerate automation scripting
+- Exploring **Agentic AI** for intelligent test generation
 
-### **3️⃣ Transport Management System (TMS)**
-🚛 Created **test strategies** for scheduling, tracking & real-time updates.  
-📌 Improved **efficiency in transport operations** & **employee logistics**.
-
-### **4️⃣ Warehouse Management System (WMS)**
-📦 Tested functionalities for **inventory management & order processing**.  
-📌 Validated **data accuracy** & optimized **system performance**.
-
----
-
-## 🎓 **Certifications**
-✔ **Software Testing Course** - Cyber Success, Pune  
-✔ **Playwright for UI & API Testing** - LinkedIn Learning  
-✔ **Apache JMeter** - LinkedIn Learning  
-✔ **Agile Testing** - LinkedIn Learning  
-✔ **Test Automation** - LinkedIn Learning  
+### 🏢 iSource — Quality Analyst *(Apr 2024 – Jul 2025)*
+- Increased earnings by **15% with automation**, reducing manual testing by **40%**
+- Improved reliability and client satisfaction by **20%**
+- Optimised release cycles by **25%** with comprehensive test plans
+- API testing with **Postman**, JIRA documentation boosted productivity by **30%**
 
 ---
 
-## 🌍 **Connect with Me**
-<p align="left">
-  <a href="https://linkedin.com/in/kalpeshnjain09" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/problemset/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+| Category | Tools |
+|---|---|
+| **Automation** | Playwright, Selenium WebDriver, Rest Assured, TestNG |
+| **API Testing** | Postman, Swagger, REST API |
+| **Performance** | JMeter |
+| **Languages** | Java, JavaScript, SQL |
+| **DevOps & Tools** | Jenkins, Git, CI/CD, JIRA, Linear, AWS DB |
+| **Testing Types** | UI, API, Manual, Regression, Smoke, Integration, Data Validation |
+| **Methodologies** | Agile (Scrum), SDLC, STLC |
+| **DSA** | LeetCode 75 — Arrays, Strings, Hashing, Trees (In Progress) |
 
 ---
 
-## 🛠 **Languages and Tools**
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://playwright.dev/" target="_blank" rel="noreferrer">
-    <img src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" width="40" height="40"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-  </a>
-</p>
+## 📌 Featured Projects
+
+### 🏦 Algebrik ONE — Loan Origination System (FinTech)
+- Automated **Direct & Indirect Auto Loan** journeys using Playwright
+- Validated backend services via **API testing (Rest Assured / Postman)**
+- Tested Digital Account Opening, Omni-Channel POS, AI Decision Engine
+
+### 📊 Gen BI — Business Intelligence Platform
+- Validated data pipelines, dashboards & reporting modules
+- Ensured accurate analytics and business insights
+
+### 🚛 Transport Management System & CRM
+- Functional and integration testing for customer management and transport workflows
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KalpeshJain18&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalpeshJain18&theme=dark" alt="GitHub Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshJain18&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+## 📚 DSA Journey — LeetCode 75
+
+> Starting from 0. Solving 1 problem/day. Targeting Big 4 SDET. 🎯
+
+| Week | Topic | Status |
+|---|---|---|
+| Week 1 | Arrays & Strings | 🔄 In Progress |
+| Week 2 | Hashing | ⏳ Upcoming |
+| Week 3 | Sliding Window | ⏳ Upcoming |
+| Week 4 | Linked Lists | ⏳ Upcoming |
+| Week 5–6 | Trees & Graphs | ⏳ Upcoming |
+
+> Follow my weekly progress on [LinkedIn](https://linkedin.com/in/kalpeshnjain09) 🔥
+
+---
+
+## 🎓 Certifications
+
+✔ **Playwright for UI & API Testing** — LinkedIn Learning
+✔ **Apache JMeter** — LinkedIn Learning
+✔ **Agile Testing** — LinkedIn Learning
+✔ **Test Automation** — LinkedIn Learning
+✔ **Software Testing Course** — Cyber Success, Pune
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KalpeshJain18&show_icons=true&theme=dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KalpeshJain18&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalpeshJain18&layout=compact&theme=dark)
+
+</div>
+
+---
+
+## 🌍 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kalpeshnjain09)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/kalpeshJain09/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x)](https://x.com/kalpeshjain_09)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jainkalpesh597@gmail.com)
+
+</div>
+
+---
+
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com)&nbsp;&nbsp;
+[![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://www.javascript.com)&nbsp;&nbsp;
+[![Playwright](https://playwright.dev/img/playwright-logo.svg)](https://playwright.dev/)&nbsp;&nbsp;
+[![Selenium](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg)](https://www.selenium.dev)&nbsp;&nbsp;
+[![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)](https://postman.com)&nbsp;&nbsp;
+[![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)](https://www.jenkins.io)&nbsp;&nbsp;
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Open to brand collaborations, mentoring & SDET opportunities!
+### 📩 Reach out: jainkalpesh597@gmail.com
+
+⭐ *If you find my repos helpful, give them a star!*
+
+</div>
