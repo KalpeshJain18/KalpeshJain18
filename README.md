@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="500"/>
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300"/>
 
 # 👋 Hey, I'm Kalpesh Jain!
 
