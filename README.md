@@ -6,7 +6,7 @@
 # 👋 Hey, I'm Kalpesh Jain!
 
 ### 🚀 SDET @ Algebrik AI | Playwright · Rest Assured · API Automation
-### 💡 Sharing DSA · QA · Tech & Career | 41K+ Community | Open to Collaborations
+### 💡 Sharing DSA · QA · Tech & Career | 42K+ Community | Open to Collaborations
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KalpeshJain18&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/KalpeshJain18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-41K%2B%20Community-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kalpeshnjain09)
