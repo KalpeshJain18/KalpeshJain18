@@ -149,7 +149,7 @@
 
 ## 🛠️ Languages and Tools
 
-<div align="center">
+<div>
 
 <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>&nbsp;&nbsp;
 <a href="https://www.javascript.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>&nbsp;&nbsp;
