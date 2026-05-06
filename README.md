@@ -22,7 +22,6 @@
 🔹 Built **end-to-end UI automation** using **Playwright** for Direct & Indirect Auto Loan flows → **40% increase in regression coverage**
 🔹 Developed **API automation** using **Rest Assured** for backend microservices → **25% improvement in release stability**
 🔹 Reduced **manual testing effort by ~30%** through regression, smoke & integration testing
-🔹 Actively solving **LeetCode 75** daily — on a mission to crack **Big 4 SDET roles** 🎯
 🔹 Sharing my journey publicly with **41K+ LinkedIn community**
 
 > *"I Learn in Public. I Grow in Public."*
@@ -37,9 +36,9 @@
 
 ## 🎯 Current Goals (2025–2026)
 
-- 🧠 Solving **LeetCode 75** — 1 problem/day consistently
 - 🏗️ Building a **production-grade Playwright + Rest Assured** automation framework
 - 🎓 Learning **System Design** for SDET interviews
+- 🧠 Solving **LeetCode 75** — 1 problem/day consistently
 - 🚀 Targeting **SDET roles at Amazon · Microsoft · Google · Meta**
 - 📢 Documenting everything publicly on [LinkedIn](https://linkedin.com/in/kalpeshnjain09)
 
