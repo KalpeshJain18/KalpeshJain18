@@ -6,7 +6,7 @@
 # 👋 Hey, I'm Kalpesh Jain!
 
 ### 🚀 SDET @ Algebrik AI | Playwright · Rest Assured · API Automation
-### 💡 Sharing DSA · QA · Tech & Career | 42K+ Community | Open to Collaborations
+### 💡 Sharing DSA · QA · Tech & Career | 46K+ Community | Open to Collaborations
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KalpeshJain18&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/KalpeshJain18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-42K%2B%20Community-blue?style=flat&logo=linkedin)](https://linkedin.com/in/kalpeshnjain09)
@@ -22,7 +22,7 @@
 🔹 Built **end-to-end UI automation** using **Playwright** for Direct & Indirect Auto Loan flows → **40% increase in regression coverage**
 🔹 Developed **API automation** using **Rest Assured** for backend microservices → **25% improvement in release stability**
 🔹 Reduced **manual testing effort by ~30%** through regression, smoke & integration testing
-🔹 Sharing my journey publicly with **41K+ LinkedIn community**
+🔹 Sharing my journey publicly with **46K+ LinkedIn community**
 
 > *"I Learn in Public. I Grow in Public."*
 
